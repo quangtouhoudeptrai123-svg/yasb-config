@@ -235,8 +235,8 @@ widgets:
     type: "yasb.systray.SystrayWidget"
     options:
       class_name: "systray"
-      label_collapsed: "⚕"
-      label_expanded: "☠"
+      label_collapsed: "🌸"
+      label_expanded: "⛩️"
       label_position: "left" # Can be "left" or "right"
       icon_size: 16 # Can be any integer between 8 and 64
       pin_click_modifier: "alt" # Can be "ctrl", "alt" or "shift"
